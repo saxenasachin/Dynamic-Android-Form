@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/value_text"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="10dp"
+    android:paddingBottom="10dp"
+    android:paddingLeft="4dp"
+    android:paddingRight="4dp"
+    android:textAlignment="center"
+    android:textColor="#fff"
+    android:text="sace"
+    android:textStyle="bold"
+    android:background="#f68c1e"
+      android:gravity="center"
+      android:textSize="16sp"/>

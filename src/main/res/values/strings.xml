@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="validation_error_title">Invalid Input</string>
+    <string name="required_field_error_msg">%s is a required field</string>
+    <string name="required_mobile_error_msg">%s should be a 10-digit number</string>
+    <string name="loading">Loading…</string>
+    <string name="pick_image_from">Pick Image From</string>
+    <string name="open_gallery">Open Gallery</string>
+    <string name="open_camera">Open Camera</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="error_field_upload_image">Please take at least one image</string>
+</resources>

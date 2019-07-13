@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_field_required">कृपया पूर्ण तपशील भरा</string>
+    <string name="error_field_upload_image"> कृपया फोटो अपलोड करें</string>
+    <string name="loading">Loading…</string>
+    <string name="open_camera">कॅमेरा</string>
+    <string name="open_gallery">गॅलरी</string>
+    <string name="pick_image_from">फोटो कुठून अपलोड कराल?</string>
+    <string name="required_field_error_msg">%s ही फील्ड अनिवार्य आहे</string>
+    <string name="required_mobile_error_msg">%s १० अंकी असावे</string>
+    <string name="validation_error_title">Invalid Input</string>
+</resources>
