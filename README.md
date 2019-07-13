@@ -11,3 +11,7 @@ The following android UI components can be designed using this form builder.
 7. RadioButton
 8. Line Seperator
 9. Button
+
+<b>SetUp Guide</b>
+1. Download this module and included as a library into your project.
+2. Parse Json data coming from server and prepare list of ComponentItem.
